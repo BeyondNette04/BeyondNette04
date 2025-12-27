@@ -1,7 +1,8 @@
 # 👋 Hi, Welcome to BeyondNette04
 
-I’m an IT professional with a strong focus on **cloud infrastructure, cybersecurity, and secure system design**.  
-My work centers on **building, securing, and maintaining enterprise environments**, with an emphasis on **cloud security controls, identity management, and operational resilience**.
+I’m an IT professional transitioning into cybersecurity, with a strong focus on **cloud security, incident response, and secure infrastructure design**.
+My background in enterprise IT allows me to approach security from both an **operational and defensive perspective**, bridging the gap between infrastructure support and cloud security engineering.
+
 
 This GitHub serves as a **portfolio of hands-on projects** that demonstrate real-world skills in:
 - Cloud security engineering
@@ -16,10 +17,10 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 
 ## 🧠 Core Focus Areas
 - Cloud Security (Azure & AWS)
+- Security Operations & Incident Response
 - Identity & Access Management (IAM)
 - Infrastructure as Code (Terraform)
-- Security Monitoring & Incident Response
-- Systems Hardening & Patch Management
+- Security Monitoring & Logging
 - Governance, Risk, and Compliance (GRC)
 
 ---
@@ -32,7 +33,7 @@ These projects focus on **designing, managing, and hardening IT environments**, 
 ---
 
 ## ☁️ Cloud Security Projects
-These projects emphasize **securing cloud environments**, implementing **security controls**, and aligning with **best practices and frameworks**.
+These projects reflect the skills required for **Cloud Security Analyst and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
 
 
 
