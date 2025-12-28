@@ -16,16 +16,6 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 ---
 
 ## 🧠 Core Focus Areas
-- Cloud Security (Azure & AWS)
-- Security Operations & Incident Response
-- Identity & Access Management (IAM)
-- Infrastructure as Code (Terraform)
-- Security Monitoring & Logging
-- Governance, Risk, and Compliance (GRC)
-
----
-## 🛡️ Focus Area
-
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/Cybersecurity-blue" />
