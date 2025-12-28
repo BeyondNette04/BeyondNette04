@@ -17,9 +17,14 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 
 ## 🧠 Core Focus Areas
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Cybersecurity-blue" />
-  </a>
+  <img src="https://img.shields.io/badge/Cybersecurity-blue" />
+  <img src="https://img.shields.io/badge/Terraform-purple" />
+  <img src="https://img.shields.io/badge/GRC-orange" />
+  <img src="https://img.shields.io/badge/Cloud-white" />
+  <img src="https://img.shields.io/badge/IAM-yellow" />
+  <img src="https://img.shields.io/badge/IT%20Infrastructure-pink" />
+  <img src="https://img.shields.io/badge/Incident%20Response-turquoise" />
+
 </p>
 
 ---
