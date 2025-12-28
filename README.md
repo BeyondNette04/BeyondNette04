@@ -19,12 +19,11 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-blue" />
   <img src="https://img.shields.io/badge/Incident%20Response-turquoise" />
-  <img src="https://img.shields.io/badge/Cloud-white" />
+  <img src="https://img.shields.io/badge/Cloud-lightgray" />
   <img src="https://img.shields.io/badge/IAM-yellow" />
   <img src="https://img.shields.io/badge/Terraform-purple" />
   <img src="https://img.shields.io/badge/GRC-orange" />
   <img src="https://img.shields.io/badge/IT%20Infrastructure-pink" />
-
 </p>
 
 ---
