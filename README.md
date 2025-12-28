@@ -33,7 +33,7 @@ These projects focus on **designing, managing, and hardening IT environments**, 
 ---
 
 ## ☁️ Cloud Security Projects
-These projects reflect the skills required for **Cloud Security Analyst and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
+These projects reflect the skills required for **Cybersecurity Analyst and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
 
 
 
