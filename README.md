@@ -2,13 +2,14 @@
 
 I’m an IT professional transitioning into cybersecurity, with a strong focus on cloud security, incident response, and secure infrastructure design. My background in enterprise IT allows me to approach security from both an operational and defensive perspective, bridging the gap between infrastructure support and cloud security engineering.
 
+My work emphasizes real world security operations, cloud governance, and automation at scale.
 
 This GitHub serves as a **portfolio of hands-on projects** that demonstrate real-world skills in:
 - Cloud security engineering
-- IT infrastructure management
-- Identity & access control
 - Security monitoring and incident response
+- Identity & access control
 - Automation and Infrastructure as Code (IaC)
+- IT infrastructure management
 
 All projects are designed to reflect **practical, enterprise-relevant scenarios** rather than theoretical labs.
 
@@ -17,12 +18,12 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 ## 🧠 Core Focus Areas
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-blue" />
-  <img src="https://img.shields.io/badge/Terraform-purple" />
-  <img src="https://img.shields.io/badge/GRC-orange" />
+  <img src="https://img.shields.io/badge/Incident%20Response-turquoise" />
   <img src="https://img.shields.io/badge/Cloud-white" />
   <img src="https://img.shields.io/badge/IAM-yellow" />
+  <img src="https://img.shields.io/badge/Terraform-purple" />
+  <img src="https://img.shields.io/badge/GRC-orange" />
   <img src="https://img.shields.io/badge/IT%20Infrastructure-pink" />
-  <img src="https://img.shields.io/badge/Incident%20Response-turquoise" />
 
 </p>
 
