@@ -44,7 +44,7 @@ These projects reflect the skills required for **Cybersecurity Analyst and Cloud
 
 ---
 
-## 🧪 Lab Philosophy
+## 🧪 Project Principles
 All projects follow these principles:
 - Realistic enterprise scenarios
 - Security-first design
