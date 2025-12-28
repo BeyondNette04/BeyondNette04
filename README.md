@@ -24,6 +24,15 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 - Governance, Risk, and Compliance (GRC)
 
 ---
+## 🛡️ Focus Area
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Cybersecurity-blue" />
+  </a>
+</p>
+
+---
 
 ## 🖥️ IT Infrastructure Projects
 These projects focus on **designing, managing, and hardening IT environments**, both on-prem and cloud-adjacent.
