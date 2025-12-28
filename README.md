@@ -1,3 +1,5 @@
+<img src="bn4 (4).png" alt="banner that says BN4">
+
 # 🚀 Hi, Welcome to BeyondNette04
 
 I’m an IT professional transitioning into cybersecurity, with a strong focus on cloud security, incident response, and secure infrastructure design. My background in enterprise IT allows me to approach security from both an operational and defensive perspective, bridging the gap between infrastructure support and cloud security engineering.
