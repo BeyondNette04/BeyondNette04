@@ -1,4 +1,4 @@
-<img src="rsz_bn4_3 (1).png" alt="banner that says BN4">
+<img src="BN4 Header.png" alt="banner that says BN4">
 
 # 🚀 Hi, Welcome to BeyondNette04
 
