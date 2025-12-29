@@ -30,17 +30,13 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 
 ---
 
-## 🖥️ IT Infrastructure Projects
-These projects focus on **designing, managing, and hardening IT environments**, both on-prem and cloud-adjacent.
-
-
-
----
-
 ## ☁️ Cloud Security Projects
 These projects reflect the skills required for **Cybersecurity Analyst and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
 
+---
 
+## 🖥️ IT Infrastructure Projects
+These projects focus on **designing, managing, and hardening IT environments**, both on-prem and cloud-adjacent.
 
 ---
 
