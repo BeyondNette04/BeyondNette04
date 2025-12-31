@@ -17,6 +17,11 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 
 ---
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
 ## 🧠 Core Focus Areas
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-blue" />
@@ -48,3 +53,12 @@ All projects follow these principles:
 - Reproducible builds when possible
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=beyondnette04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=beyondnette04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyondnette04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=beyondnette04&icon=0&color=0)](https://visitcount.itsvg.in)
+
