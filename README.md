@@ -47,10 +47,10 @@ These projects focus on **designing, managing, and hardening IT environments**, 
 
 ## 🧪 Project Design Principles
 All projects follow these principles:
-- Realistic enterprise scenarios
-- Security-first design
-- Clear documentation and reasoning
-- Reproducible builds when possible
+- Realistic, enterprise-relevant scenarios
+- Security-first design and decision-making
+- Clear documentation and technical reasoning
+- Reproducible builds where feasible
 
 ---
 
