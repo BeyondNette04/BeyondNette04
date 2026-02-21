@@ -38,6 +38,8 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 ## ☁️ Cloud Security Projects
 These projects reflect the skills required for **Cybersecurity specialist and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
 
+https://github.com/BeyondNette04/cloud-honeypot-threat-intel
+
 ---
 
 ## 🖥️ IT Infrastructure Projects
