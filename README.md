@@ -45,7 +45,7 @@ These projects reflect the skills required for **Cybersecurity specialist and Cl
 - **Tools:** T-Pot, Elastic Stack, Azure  
 - **Outcome:** Gained hands-on experience analyzing attacker behavior
 
-View Project → (https://github.com/BeyondNette04/cloud-honeypot-threat-intel)
+View Project → (https://github.com/BeyondNette04/cloud-honeypot-threat-intel-lab)
 
 ---
 
