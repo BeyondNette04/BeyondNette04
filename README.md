@@ -38,7 +38,14 @@ All projects are designed to reflect **practical, enterprise-relevant scenarios*
 ## ☁️ Cloud Security Projects
 These projects reflect the skills required for **Cybersecurity specialist and Cloud Security Engineer roles**, with an emphasis on detection, response, and secure cloud architecture.
 
-https://github.com/BeyondNette04/cloud-honeypot-threat-intel
+### 🔹 T-Pot Honeypot Lab (Azure)
+*Analyzed real-world attack traffic using a cloud-based honeypot*
+
+- **Focus:** Threat Detection, Logging, Network Security  
+- **Tools:** T-Pot, Elastic Stack, Azure  
+- **Outcome:** Gained hands-on experience analyzing attacker behavior
+
+View Project → (https://github.com/BeyondNette04/cloud-honeypot-threat-intel)
 
 ---
 
